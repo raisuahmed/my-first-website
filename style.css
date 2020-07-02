@@ -145,10 +145,10 @@ section{
       }
     
     .mail{
-      margin-left: 165px;
+      margin-left: 175px;
       text-decoration: none;
       background-color: #350e35;
-      padding: 14px;
+      
       border-radius: 5px;
       color: turquoise;
     }
@@ -167,11 +167,11 @@ section{
         margin-left: 32%;
     margin-bottom: 90px;
      color: white;
-  height: 150px;
+  height: 100px;
   width: 40%;
   background-color: rgb(235, 12, 205);
   border-radius: 10px;
-  padding-top: 10px;
+  padding-top: 2px;
   
     }
     h6{
