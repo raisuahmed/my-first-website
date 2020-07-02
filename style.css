@@ -1,0 +1,156 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0px ;
+}
+.header-bg{
+    background-image: url("Images/header-bg.png");
+  background-repeat: no-repeat;
+        
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left:4%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 80%;
+     
+}
+h1{
+    font-size: 50px;
+}
+.welcome{
+    color: yellow;
+    
+}
+.name-highlight{
+    color: magenta;
+   
+   
+}
+p{
+    text-align: justify;
+    color: rgb(201, 9, 9);
+    margin-left: 12px;
+  
+}
+section{
+    height: 400px;
+}
+
+
+.link-button{
+    text-decoration: none;
+    padding: 10px 20px; 
+    border-radius: 10px;
+    background-image: linear-gradient( rgb(252, 19, 252) ,#c53c80);
+    color: white;
+    font-weight: 700;
+    
+}
+
+.biography{
+    background-image: url("Images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.half-width1{
+    width: 40%;
+    float: left;
+    margin-left:4%;
+   margin-top: 190px;
+}
+
+
+.latest-work{
+    background-image: url("Images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-top: 350px;
+   
+    
+}
+.half-width2{
+    
+  
+    margin-left:120px;
+  
+   display: inline;
+}
+
+
+
+.work{
+    text-align: center;
+       
+    }
+  
+  
+    
+    .fotter-bg{
+        background-image: url("Images/footer-bg.png");
+        background-repeat: no-repeat;
+        background-position: left;
+        
+        
+    }
+    .half-width3{
+    
+  
+      text-align: center;
+      
+       display: inline;
+    }
+    
+    .what{
+        margin-bottom: 70px;
+        margin-left: 85px;
+    }
+    .lorem{
+        margin-left: 70px;
+        display: block;
+        font-family:Arial, Helvetica, sans-serif;
+    }
+    .bruch{
+        margin-left: 70px;
+    }
+    h5{
+        margin-left: 90px;
+    }
+    .footer{
+        
+       margin-left: 70px;
+        margin-top: 60px;
+    }
+    .half-width3{
+    
+ 
+        border: 2px sold red;
+        
+     background-color: yellow;
+      }
+    
+    .mail{
+      text-align: center;
+    }
+    h4{
+        text-align: center;
+    }
+    .contact{
+        margin-left: 36%;
+    margin-bottom: 90px;
+     color: white;
+  height: 150px;
+  width: 40%;
+  background-color: rgb(235, 12, 205);
+  border-radius: 10px;
+  padding-top: 10px;
+  
+    }
+    h6{
+        margin-left: 650px;
+    }
