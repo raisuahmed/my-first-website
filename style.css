@@ -22,8 +22,9 @@ body{
 h1{
     font-size: 50px;
 }
-.welcome{
+.hello{
     color: yellow;
+    margin: 0px;
     
 }
 .name-highlight{
@@ -37,6 +38,9 @@ p{
     margin-left: 12px;
   
 }
+h3{
+    margin-left: 10px;
+}
 section{
     height: 400px;
 }
@@ -46,12 +50,18 @@ section{
     text-decoration: none;
     padding: 10px 20px; 
     border-radius: 10px;
-    background-image: linear-gradient( rgb(252, 19, 252) ,#c53c80);
+    background-image: linear-gradient( #530953 ,#c53c80);
     color: white;
     font-weight: 700;
+    margin-left: 10px;
     
 }
-
+.link-button:hover{
+    background-image:repeating-linear-gradient(blue,magenta);
+    color: #e8ec08;
+    border-radius: 10px;
+    padding: 10px 30px;
+}
 .biography{
     background-image: url("Images/biography-bg.png");
     background-repeat: no-repeat;
@@ -135,7 +145,20 @@ section{
       }
     
     .mail{
-      text-align: center;
+      margin-left: 165px;
+      text-decoration: none;
+      background-color: #350e35;
+      padding: 14px;
+      border-radius: 5px;
+      color: turquoise;
+    }
+    .mail:hover{
+        background-color: yellowgreen;
+        color: #072fe0;
+        padding: 10px;
+        border-radius: 10px;
+        font-weight: bold;
+
     }
     h4{
         text-align: center;
@@ -152,5 +175,5 @@ section{
   
     }
     h6{
-        margin-left: 650px;
+        margin-left: 655px;
     }
